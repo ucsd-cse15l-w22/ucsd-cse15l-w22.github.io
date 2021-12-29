@@ -137,17 +137,6 @@ defaults:
 
 
 
-#     _____ __________
-#    / ___// ____/ __ \
-#    \__ \/ __/ / / / /
-#   ___/ / /___/ /_/ /
-#  /____/_____/\____/    Verify Website to Webmaster Tools
-
-google_site_verification        : 'Vk0IOJ2jwG_qEoG7fuEXYqv0m2rLa8P778Fi_GrsgEQ'
-bing_webmastertools_id          : '0FB4C028ABCF07C908C54386ABD2D97F'
-# yandex_site_verification      : ''
-# alexa_verify_id               : ''
-
 
 
 #       ______            _
@@ -157,7 +146,7 @@ bing_webmastertools_id          : '0FB4C028ABCF07C908C54386ABD2D97F'
 #   /_/    \__,_/ |___/_/\___/\____/_/ /_/____/   Favicon-Crap: Favicons, Chrome, Android & Apple Touch Buttons
 #                                                 More information » https://mathiasbynens.be/notes/touch-icons
 
-favicon-32x32                        : 'favicon-32x32.png'
+favicon-32x32                        : 'CSELogo-color-vrable-thm.png'
 touch-icon-192x192                   : 'touch-icon-192x192.png'
 apple-touch-icon-180x180-precomposed : 'apple-touch-icon-180x180-precomposed.png'
 apple-touch-icon-152x152-precomposed : 'apple-touch-icon-152x152-precomposed.png'

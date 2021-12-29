@@ -23,7 +23,6 @@ permalink: /index.html
 # this page as active in the topbar navigation
 #
 homepage: true
-title: "CSE 15L – Software Techniques and Tools"
 ---
 
 <div class="row">
