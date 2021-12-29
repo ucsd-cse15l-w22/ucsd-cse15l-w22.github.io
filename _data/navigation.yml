@@ -7,9 +7,9 @@
   side: left
 
 - title: "Weeks"
-  url: "/design/"
+  url: "/weeks/"
   side: left
   dropdown:
   - title: "Week 1"
-    url: "/design/grid/"
+    url: "/weeks/week1/"
 
