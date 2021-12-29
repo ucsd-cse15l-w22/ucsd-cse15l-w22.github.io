@@ -25,7 +25,7 @@ author: joe
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: '/'
+url: 'https://ucsd-cse15l-w22.github.io'
 baseurl: '/'
 
 # This is for the editing function in _/includes/improve_content
