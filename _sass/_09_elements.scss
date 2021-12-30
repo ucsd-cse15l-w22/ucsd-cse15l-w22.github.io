@@ -160,3 +160,16 @@ img.lazy {
     margin-top: -50px;
   }
 }
+
+ul.material, .material ul {
+  list-style-position: inside;
+}
+
+.material > li {
+  padding: 1em;
+}
+
+li.current {
+  background-color: $topbar-link-bg-active;
+  border-radius: 1em;
+}

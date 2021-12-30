@@ -1,4 +1,4 @@
-- title: Home
+- title: CSE15L
   url: "/"
   side: left
 
@@ -11,5 +11,5 @@
   side: left
   dropdown:
   - title: "Week 1"
-    url: "/weeks/week1/"
+    url: "/week/week1/"
 

@@ -29,28 +29,25 @@ homepage: true
 
 Joe Gibbs Politz - <code>jpolitz@eng.ucsd.edu</code> -  [jpolitz.github.io](https://jpolitz.github.io)
 
-<div class="row">
-<div class="large-8 large-centered columns">
-<a href="https://xkcd.com/1343/"><img src="https://imgs.xkcd.com/comics/manuals.png"/></a>
-</div>
-</div>
-
 ## Material and Schedule
 
-<ul>
+<ul class="material">
     {% for post in site.categories.week reversed %}
-    <li>
+    <li class="{% if post.current %}current{% endif %}">
     <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
     <ul>
-      <li>Due {{ post.quiz.due-date }}: <a href="{{ post.quiz.url }}">{{ post.quiz.name }}</a></li>
-      {% if post.report %}
-        <li>Due {{ post.report.due-date }}: <a href="{{ post.report.url }}">{{ post.report.name }}</a></li>
-      {% endif %}
+      {% for todo in post.todos %}
+      <li><a href="{{ todo.url }}">{{ todo.name }}</a> - Due {{ todo.due-date }}</li>
+      {% endfor %}
     </ul>
     
     </li>
     {% endfor %}
 </ul>
+
+## Course Calendar
+
+<iframe src="https://calendar.google.com/calendar/embed?src=c_qr732udb46jbievpbp102ekjmc%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 ## Frequently Asked Questions
 
