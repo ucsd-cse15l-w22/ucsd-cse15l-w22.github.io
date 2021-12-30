@@ -3,7 +3,7 @@
 ------------------------------------------------------------------- */
 
 .highlight {
-    background: #fff;
+    background: scale-color($color: $secondary-color, $lightness: 80%);
     [data-lang]::before {
     content: attr(data-lang);
     display: block;

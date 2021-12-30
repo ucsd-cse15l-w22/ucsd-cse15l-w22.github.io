@@ -178,7 +178,8 @@ pre {
     margin-bottom: rem-calc(20);
     padding: 5px;
     background-color: $code-background-color;
-    border-radius: $global-radius;
+    border-radius: 5px;
+    border: 1px solid scale-color($color: $secondary-color, $lightness: 10%);
 }
 pre code {
     padding: rem-calc(2) rem-calc(5) rem-calc(1) rem-calc(0);
