@@ -35,6 +35,23 @@ Joe Gibbs Politz - <code>jpolitz@eng.ucsd.edu</code> -  [jpolitz.github.io](http
 </div>
 </div>
 
+## Material and Schedule
+
+<ul>
+    {% for post in site.categories.week reversed %}
+    <li>
+    <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+    <ul>
+      <li>Due {{ post.quiz.due-date }}: <a href="{{ post.quiz.url }}">{{ post.quiz.name }}</a></li>
+      {% if post.report %}
+        <li>Due {{ post.report.due-date }}: <a href="{{ post.report.url }}">{{ post.report.name }}</a></li>
+      {% endif %}
+    </ul>
+    
+    </li>
+    {% endfor %}
+</ul>
+
 ## Frequently Asked Questions
 
 For now, this page is a placeholder and holds frequently asked questions about
@@ -59,3 +76,4 @@ Reach out to the folks at CSE student affairs:
 
 They know much more than me about timelines, waitlist logistics, policies for
 majors and non-majors enrollment, and so on.
+

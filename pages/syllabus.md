@@ -80,7 +80,7 @@ feedback; you must respond to the feedback to receive full credit on your post.
 
 ### Skill Demonstrations
 
-Twice during the quarter (week 4 and week 8) you you will record a screencast of
+Twice during the quarter (week 5 and week 9) you you will record a screencast of
 yourself demonstrating some of the skills you learned. This takes the place of
 in-person midterm exams. We will grade these screencasts and give feedback on if
 they correctly demonstrated what we were looking for.
