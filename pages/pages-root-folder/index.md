@@ -25,22 +25,22 @@ permalink: /index.html
 homepage: true
 ---
 
+# Software Tools and Techniques (UCSD CSE 15L)
+
+Joe Gibbs Politz - <code>jpolitz@eng.ucsd.edu</code> -  [jpolitz.github.io](https://jpolitz.github.io)
+
 <div class="row">
 <div class="large-8 large-centered columns">
 <a href="https://xkcd.com/1343/"><img src="https://imgs.xkcd.com/comics/manuals.png"/></a>
 </div>
 </div>
 
-
-## Software Tools and Techniques
-
-Joe Gibbs Politz - <code>jpolitz@eng.ucsd.edu</code> -  [jpolitz.github.io](https://jpolitz.github.io)
+## Frequently Asked Questions
 
 For now, this page is a placeholder and holds frequently asked questions about
 the course. This site will switch to containing the official course website and
 syllabus at the start of winter quarter (early January 2022).
 
-## Frequently Asked Questions
 
 **Q: Will the course have remote options?**
 
