@@ -25,8 +25,6 @@ permalink: /index.html
 homepage: true
 ---
 
-# Software Tools and Techniques (UCSD CSE 15L)
-
 Joe Gibbs Politz - <code>jpolitz@eng.ucsd.edu</code> -  [jpolitz.github.io](https://jpolitz.github.io)
 
 ## Material and Schedule
