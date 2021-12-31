@@ -46,7 +46,11 @@ Joe Gibbs Politz - <code>jpolitz@eng.ucsd.edu</code> -  [jpolitz.github.io](http
 
 ## Course Calendar
 
-<iframe src="https://calendar.google.com/calendar/embed?src=c_qr732udb46jbievpbp102ekjmc%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+This calendar shows rooms for scheduled in-person lecture and lab meetings.
+
+Visit Canvas to see Zoom links for remote sessions in the first two weeks.
+
+<iframe src="https://calendar.google.com/calendar/embed?src=c_qr732udb46jbievpbp102ekjmc%40group.calendar.google.com&ctz=America%2FLos_Angeles&mode=WEEK" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 ## Frequently Asked Questions
 
