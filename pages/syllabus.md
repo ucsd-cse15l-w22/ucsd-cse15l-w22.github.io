@@ -57,9 +57,9 @@ lecture sessions on each day. In the first two weeks they will be held via Zoom.
 In following weeks they will be held in the normally scheduled lecture halls,
 and recorded via Zoom. Lecture attendance is optional.
 
-Each week there will be an online, untimed, multiple-tries quiz due on _Tuesday
-evening_ (including week 1). The purpose of this quiz is to make sure everyone
-has checked in on the concepts we will be using in lab on Wednesday and
+Each week there will be an online, untimed, multiple-tries quiz due on
+_Wednesday morning_ (including week 1). The purpose of this quiz is to make sure
+everyone has checked in on the concepts we will be using in lab on Wednesday and
 Thursday.
 
 The lecture setup is roughly that on Monday we will introduce the topics and any
