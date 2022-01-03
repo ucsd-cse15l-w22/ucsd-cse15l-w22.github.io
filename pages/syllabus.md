@@ -25,9 +25,9 @@ week 3 and beyond.
 
 ## Announcements
 
-We will announce important events in the course through Piazza (FILL link). You
-must have a Piazza account and be able to receive notifications through Piazza
-or check it daily.
+We will announce important events in the course through Piazza. You must have a
+Piazza account and be able to receive notifications through Piazza or check it
+daily.
 
 You can join our Piazza course here: [https://piazza.com/ucsd/winter2022/cse15l](https://piazza.com/ucsd/winter2022/cse15l)
 
