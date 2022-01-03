@@ -77,6 +77,7 @@ indicate which ones.
 
 For each post, our staff will review it and either give full credit or give
 feedback; you must respond to the feedback to receive full credit on your post.
+We'll post specific final deadlines for this feedback
 
 ### Skill Demonstrations
 
