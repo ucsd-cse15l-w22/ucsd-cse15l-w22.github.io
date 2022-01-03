@@ -116,6 +116,13 @@ boundaries of these categories at the instructor's discretion.
     - Full score on one skill demonstrations, both submitted (either initially
     or with the final make-up)
 
+## Consent to Participate in Educational Research
+
+You can download a copy of the form below
+[here](https://docs.google.com/document/d/14HNe2U5-oBXtWgNKqNpTkhPiBjEhnlOKX2DJfBhnOO8/)
+if you need a copy to fill out.
+
+<iframe width="100%" height="800px" src="https://docs.google.com/document/d/e/2PACX-1vSssZh6Sb22jt0dKnwc2NHG7wKPCE1Ehi-o2QdJUd9c1MZjY_1AvcIrH-a2tTIcHEROGfGFJhNfJAjW/pub?embedded=true"></iframe>
 
 
 </div>
