@@ -175,7 +175,10 @@ li.current {
 }
 
 .fixed-toc {
-  width: auto;
-  left: auto;
-  top: auto;
+  @media #{$large-up} {
+    width: auto;
+    left: auto;
+    top: auto;
+    position: fixed;
+  }
 }
