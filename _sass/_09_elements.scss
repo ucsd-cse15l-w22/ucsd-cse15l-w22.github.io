@@ -173,6 +173,10 @@ li.current {
   background-color: $topbar-link-bg-active;
   border-radius: 1em;
 }
+li.gray {
+  color: $topbar-link-bg-active;
+  opacity: 0.5;
+}
 
 .fixed-toc {
   @media #{$large-up} {

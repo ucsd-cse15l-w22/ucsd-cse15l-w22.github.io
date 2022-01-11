@@ -32,7 +32,7 @@ Joe Gibbs Politz - <code>jpolitz@eng.ucsd.edu</code> -  [jpolitz.github.io](http
 
 <ul class="material">
     {% for post in site.categories.week reversed %}
-    <li class="{% if post.current %}current{% endif %}">
+    <li class="{% if post.current %}current{% else %}gray{% endif %}">
     <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
     <ul>
       {% for todo in post.todos %}
@@ -62,7 +62,7 @@ syllabus at the start of winter quarter (early January 2022).
 **Q: Will the course have remote options?**
 
 Currently, I'm not planning any remote or asynchronous options for CSE 15L
-beyond the first two weeks.  You should make sure you're available at the times
+beyond the first ~~two~~ four weeks.  You should make sure you're available at the times
 and places listed on the course schedule.
 
 It's helpful to me if you let me know (<code>jpolitz@eng.ucsd.edu</code>) if
