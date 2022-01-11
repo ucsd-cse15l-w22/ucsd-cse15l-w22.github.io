@@ -12,4 +12,6 @@
   dropdown:
   - title: "Week 1"
     url: "/week/week1/"
+  - title: "Week 2"
+    url: "/week/week2/"
 
