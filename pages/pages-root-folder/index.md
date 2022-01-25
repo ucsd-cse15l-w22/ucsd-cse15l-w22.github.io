@@ -61,19 +61,5 @@ syllabus at the start of winter quarter (early January 2022).
 
 **Q: Will the course have remote options?**
 
-Currently, I'm not planning any remote or asynchronous options for CSE 15L
-beyond the first ~~two~~ four weeks.  You should make sure you're available at the times
-and places listed on the course schedule.
-
-It's helpful to me if you let me know (<code>jpolitz@eng.ucsd.edu</code>) if
-you would like a remote/asynchronous option and why.
-
-**Q: I have a question about enrollments, section times, or the waitlist.**
-
-Reach out to the folks at CSE student affairs:
-
-[https://cse.ucsd.edu/undergraduate/advising/cse-student-affairs-office-hours](https://cse.ucsd.edu/undergraduate/advising/cse-student-affairs-office-hours)
-
-They know much more than me about timelines, waitlist logistics, policies for
-majors and non-majors enrollment, and so on.
-
+Yes. The course will have remote lab options for the duration of the quarter.
+There will be in-person lab options starting week 5.
