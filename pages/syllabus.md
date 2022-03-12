@@ -105,13 +105,13 @@ boundaries of these categories at the instructor's discretion.
     final make-up)
 - **B** achievement:
     - 7 or more lab participation
-    - 9/10 quizzes complete and correct, no more than 3 late
+    - 9/10 quizzes complete and correct, no more than 5 late
     - All 5 lab reports submitted, 4 with full credit/feedback addressed
     - Full score on both skill demonstrations (either initially or with the
     final make-up)
 - **C** achievement:
     - 6 or more lab participation
-    - 8/10 quizzes complete and correct, no more than 3 late
+    - 8/10 quizzes complete and correct, submitted at any time
     - At least 4 lab reports submitted, 3 with full credit/feedback addressed
     - Full score on one skill demonstrations, both submitted (either initially
     or with the final make-up)
