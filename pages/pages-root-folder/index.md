@@ -28,6 +28,7 @@ title: "Software Tools & Techniques Lab (UCSD CSE15L)"
 
 Joe Gibbs Politz - <code>jpolitz@eng.ucsd.edu</code> -  [jpolitz.github.io](https://jpolitz.github.io)
 
+
 ## Material and Schedule
 
 <ul class="material">
